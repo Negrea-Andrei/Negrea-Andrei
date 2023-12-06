@@ -9,8 +9,8 @@
 <img align="right" alt="coding" width="450" src="https://www.llnschools.com/_ipx/w_256,q_100/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4pigso85%2Fproduction%2Feed42020cf1774c3b483aa6922d8fbea19f2afdc-464x475.png%3Frect%3D0%2C1%2C464%2C474%26w%3D313%26h%3D320%26q%3D100%26auto%3Dformat?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4pigso85%2Fproduction%2Feed42020cf1774c3b483aa6922d8fbea19f2afdc-464x475.png%3Frect%3D0%2C1%2C464%2C474%26w%3D313%26h%3D320%26q%3D100%26auto%3Dformat&w=256&q=100">
 
 - ☕️ I’m currently working on a e-commerce site for coffe;
-- 🧠 I’m currently learning React Routers on [TheOdinProject](https://www.theodinproject.com/lessons/node-path-react-new-react-router);
-- ⚡  My next step is **Back End**;
+- 🧠 I’m currently learning **Back End** on [TheOdinProject](https://www.theodinproject.com/lessons/node-path-react-new-react-router);
+- ⚡  My next step is a full stack messaging app ;
 - 📫 How to reach me **negrea97@yahoo.com**;
 - ✨ Fun fact **I visited America twice**.
   
