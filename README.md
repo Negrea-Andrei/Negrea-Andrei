@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 <h3>I love computers, music, movies and games.</h3>
-<img align="right" alt="coding" width="450" src="https://www.llnschools.com/_ipx/w_256,q_100/https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4pigso85%2Fproduction%2Feed42020cf1774c3b483aa6922d8fbea19f2afdc-464x475.png%3Frect%3D0%2C1%2C464%2C474%26w%3D313%26h%3D320%26q%3D100%26auto%3Dformat?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4pigso85%2Fproduction%2Feed42020cf1774c3b483aa6922d8fbea19f2afdc-464x475.png%3Frect%3D0%2C1%2C464%2C474%26w%3D313%26h%3D320%26q%3D100%26auto%3Dformat&w=256&q=100">
+<img align="right" alt="coding" width="400" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />>
 
 - ☕️ I’m currently working on a e-commerce site for coffe;
 - 🧠 I’m currently learning **Back End** on [TheOdinProject](https://www.theodinproject.com/lessons/node-path-react-new-react-router);
