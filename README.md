@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 <h3>I love computers, music, movies and games.</h3>
-<img align="right" alt="coding" width="400" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />>
+<img align="right" alt="coding" width="400" height="400" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />>
 
 - ☕️ I’m currently working on a e-commerce site for coffe;
 - 🧠 I’m currently learning **Back End** on [TheOdinProject](https://www.theodinproject.com/lessons/node-path-react-new-react-router);
@@ -23,7 +23,7 @@
 
 
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,webpack,vite,nextjs,git,github,jenkins,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,webpack,vite,nextjs,mongodb,postman,git,github,jenkins,vscode&perline=8)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <p align="center">
