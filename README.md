@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negrea-andrei&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negrea-andrei&layout=compact&theme=nightowl&hide_border=true" alt="GitHub Top-Langs" align="center" width="40%" />
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=negrea-andrei&theme=nightowl&hide_border=true" align="center"/>
  </p>
   
