@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andrei! 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&pause=800&random=false&width=435&lines=Frontend+Developer;Database+Administrator;Support+IT;&center=true&width=380&height=45" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&pause=800&random=false&width=435&lines=Web+Developer;Support+IT;&center=true&width=380&height=45" alt="Typing SVG" /></a>
 </p>
 
 ## 💫 About Me:
