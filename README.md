@@ -11,7 +11,7 @@
 - ☕️ I’m currently working inventory backend app;
 - 🧠 I’m currently learning **Node.js and Express** on [TheOdinProject](https://www.theodinproject.com/lessons/node-path-react-new-react-router);
 - ⚡  My next step is a full stack messaging app;
-- 📫 How to reach me **negrea97@yahoo.com**;
+- 📫 How to reach me **andrei.negrea.contact@gmail.com**;
 - ✨ Fun fact **I visited America twice**.
   
 ## 🌐 Connect with me:
